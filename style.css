@@ -1,0 +1,24 @@
+* {
+    background-color: #121212;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.container .list {
+    display: inline-block;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+li,
+li a, 
+.container .list {
+    text-align: left;
+    background-color: #4f5b66;
+}
